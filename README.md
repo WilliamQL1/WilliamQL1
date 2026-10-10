@@ -1,5 +1,6 @@
 
-![Banner](https://github.com/user-attachments/assets/b961d3a0-8523-44cd-8306-118c47ee2d35)
+<img width="562" height="306" alt="descarga (7)" src="https://github.com/user-attachments/assets/3e6a1878-39b2-4dd9-999b-90993964f7b4" />
+
 
 # Hi, I'm   William
 #  William Q. L. // Systems Engineering Student
