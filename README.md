@@ -18,3 +18,5 @@ Bienvenido a mi repositorio. Apasionado del desarrollo backend, lógica de progr
 ## 🚀 About Me
 I'm a full stack developer...
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WilliamQL1&bg_color=0a192f&title_color=8b5cf6&text_color=ffffff&border_color=5b21b6)
+
