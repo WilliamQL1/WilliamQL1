@@ -2,7 +2,7 @@
 ![Banner](https://github.com/user-attachments/assets/b961d3a0-8523-44cd-8306-118c47ee2d35)
 
 # Hi, I'm   William
-# 👁️ William Q. L. // Systems & Code Vault
+#  William Q. L. // Systems Engineering Student
 
 Bienvenido a mi repositorio. Apasionado del desarrollo backend, lógica de programación y la construcción de proyectos sólidos. Construyendo soluciones digitales con persistencia, visión estratégica y enfoque técnico.
 ## Color Reference
