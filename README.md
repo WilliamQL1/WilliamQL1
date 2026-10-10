@@ -5,7 +5,7 @@
 # Hi, I'm   William
 #  William Q. L. // Systems Engineering Student
 
-Bienvenido a mi repositorio. Apasionado del desarrollo backend, lógica de programación y la construcción de proyectos sólidos. Construyendo soluciones digitales con persistencia, visión estratégica y enfoque técnico.
+Welcome to my repository. Passionate about backend development, programming logic, and building solid projects. Crafting digital solutions with persistence, strategic vision, and technical focus
 
 ###  Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
